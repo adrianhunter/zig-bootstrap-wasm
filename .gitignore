@@ -1,4 +1,11 @@
 .zig-cache/
+zig-cache/
 zig-out/
 zig-pkg/
+/zig/
+/dist/
+example/zig-out/
 *.o
+STEP.md
+example
+zig
